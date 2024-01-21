@@ -1,4 +1,4 @@
-![chrome_ext](https://raw.githubusercontent.com/unixlinuxgeek/logos/main/200x200/chrome.png)
+![chrome_ext](https://raw.githubusercontent.com/unixlinuxgeek/logos/main/100x100/chrome.png)
 
 ### Chrome extension development guide
 
