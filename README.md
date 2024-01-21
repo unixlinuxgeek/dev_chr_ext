@@ -1,3 +1,5 @@
+![chrome_ext](https://raw.githubusercontent.com/unixlinuxgeek/logos/main/400x400/chrome.png)
+
 ### Chrome extension development guide
 
 A Chrome extension is composed of parts that play different roles.
